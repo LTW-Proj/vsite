@@ -1,0 +1,16 @@
+{
+  "name": "vsite",
+  "version": "1.0.0",
+  "description": "Creating a website for home use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "project",
+    "hyena",
+    "vsite"
+  ],
+  "author": "Vanta-Lydell",
+  "license": "ISC"
+}
